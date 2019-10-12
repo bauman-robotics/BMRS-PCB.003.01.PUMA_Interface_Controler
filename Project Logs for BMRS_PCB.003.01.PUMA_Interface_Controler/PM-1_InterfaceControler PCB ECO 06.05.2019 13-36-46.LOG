@@ -1,0 +1,7 @@
+Added Component: Designator=PTH1(POWERHOLE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Hole diameter (mm)"; Value = "2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pad diameter (mm)"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PTH1-1
+Added Member To Class: ClassName=2_Power Member=Component PTH1 GND
+Added Member To Class: ClassName=1_MCU Member=Component U2 STM32F103C6T7A

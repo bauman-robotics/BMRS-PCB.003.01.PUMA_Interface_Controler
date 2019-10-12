@@ -1,0 +1,228 @@
+Added Component: Designator=C1(CAPC1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(CAPC0805(2012)145_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(CAPC0805(2012)145_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(CAPC0402(1005)33_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(CAPC0402(1005)33_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(CAPC0402(1005)60_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CN1(4PHEADERS-2D54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "JST-BM04B-GHS-TBT"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(4PHEADERS-2D54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "JST-BM04B-GHS-TBT"; VariantName = "[No Variations]"
+Added Component: Designator=CN3(2PHEADERS-2D54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "JST-BM04B-GHS-TBT"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDC1005X06L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOT323-6L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(TSQFP50P900X900X160-48L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "UFQFN-48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os"; Value = "38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "48-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 7 x 7 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "UFQFPN48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT95P280X145-5L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(SOIC127P600X175-8L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(QRTZ-12mhz)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "80R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.063inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_RX Pin=U2-45
+Added Pin To Net: NetName=CAN_RX Pin=U4-4
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TX Pin=U2-46
+Added Pin To Net: NetName=CAN_TX Pin=U4-1
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN2-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=L1-2
+Added Pin To Net: NetName=NetC9_2 Pin=U2-9
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R1-1
+Added Pin To Net: NetName=NetC11_2 Pin=U2-7
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U2-5
+Added Pin To Net: NetName=NetC14_2 Pin=Y1-3
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U2-6
+Added Pin To Net: NetName=NetC15_2 Pin=Y1-1
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetCN2_2 Pin=CN2-2
+Added Pin To Net: NetName=NetCN2_2 Pin=U1-6
+Added Net: Name=NetCN2_2
+Added Pin To Net: NetName=NetCN2_3 Pin=CN2-3
+Added Pin To Net: NetName=NetCN2_3 Pin=U1-4
+Added Net: Name=NetCN2_3
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_1 Pin=R3-2
+Added Pin To Net: NetName=NetCN3_1 Pin=U4-7
+Added Net: Name=NetCN3_1
+Added Pin To Net: NetName=NetCN3_2 Pin=CN3-2
+Added Pin To Net: NetName=NetCN3_2 Pin=R3-1
+Added Pin To Net: NetName=NetCN3_2 Pin=U4-6
+Added Net: Name=NetCN3_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-44
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=SWCLK Pin=CN1-2
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=CN1-3
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USB_DM Pin=U1-3
+Added Pin To Net: NetName=USB_DM Pin=U2-32
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=U1-1
+Added Pin To Net: NetName=USB_DP Pin=U2-33
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=VCC3 Pin=C3-2
+Added Pin To Net: NetName=VCC3 Pin=C4-2
+Added Pin To Net: NetName=VCC3 Pin=C5-2
+Added Pin To Net: NetName=VCC3 Pin=C6-2
+Added Pin To Net: NetName=VCC3 Pin=C7-2
+Added Pin To Net: NetName=VCC3 Pin=C8-2
+Added Pin To Net: NetName=VCC3 Pin=C13-2
+Added Pin To Net: NetName=VCC3 Pin=C16-2
+Added Pin To Net: NetName=VCC3 Pin=C17-2
+Added Pin To Net: NetName=VCC3 Pin=CN1-4
+Added Pin To Net: NetName=VCC3 Pin=L1-1
+Added Pin To Net: NetName=VCC3 Pin=R1-2
+Added Pin To Net: NetName=VCC3 Pin=U1-5
+Added Pin To Net: NetName=VCC3 Pin=U2-1
+Added Pin To Net: NetName=VCC3 Pin=U2-24
+Added Pin To Net: NetName=VCC3 Pin=U2-36
+Added Pin To Net: NetName=VCC3 Pin=U2-48
+Added Pin To Net: NetName=VCC3 Pin=U3-5
+Added Pin To Net: NetName=VCC3 Pin=U4-3
+Added Net: Name=VCC3
+Added Pin To Net: NetName=VCC5 Pin=C1-2
+Added Pin To Net: NetName=VCC5 Pin=C2-2
+Added Pin To Net: NetName=VCC5 Pin=C12-2
+Added Pin To Net: NetName=VCC5 Pin=CN2-4
+Added Pin To Net: NetName=VCC5 Pin=U3-1
+Added Pin To Net: NetName=VCC5 Pin=U3-3
+Added Net: Name=VCC5
+Added Class: Name=1_CAN_USB_MCU_Power
+Added Room: Name=1_CAN_USB_MCU_Power

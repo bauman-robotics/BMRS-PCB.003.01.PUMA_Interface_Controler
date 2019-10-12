@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=NetU2_32 New Net Name=USB_DM
+Change Net Name : Old Net Name=NetU2_33 New Net Name=USB_DP
+Change Net Name : Old Net Name=NetU2_45 New Net Name=CAN_RX
+Change Net Name : Old Net Name=NetU2_46 New Net Name=CAN_TX
+Change Room Name: Old Name=Передача данных New Name=3_CAN
+Change Room Scope: Old Scope=InComponentClass('Передача данных') New Scope=InComponentClass('3_CAN')
+Change Room Name: Old Name=Преобразователь напряжения New Name=4_USB
+Change Room Scope: Old Scope=InComponentClass('Преобразователь напряжения') New Scope=InComponentClass('4_USB')
+Change Room Name: Old Name=Прием данных New Name=1_MCU
+Change Room Scope: Old Scope=InComponentClass('Прием данных') New Scope=InComponentClass('1_MCU')
+Added Room: Name=2_Power
